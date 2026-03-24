@@ -1,0 +1,7 @@
+{
+  "name": "Remix: EthoVisionAI(final)",
+  "description": "A tool to analyze animal behavior and health using AI, focusing on wildlife conflict prevention, service animal health, and animal welfare auditing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

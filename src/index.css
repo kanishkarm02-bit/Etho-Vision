@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+:root {
+  --tooltip-bg: #ffffff;
+  --tooltip-border: #e5e7eb;
+  --tooltip-color: #111827;
+  --legend-color: #374151;
+  --grid-color: #e5e7eb;
+  --axis-color: #9ca3af;
+  --tick-color: #6b7280;
+  --cursor-fill: #0000000a;
+}
+
+.dark {
+  --tooltip-bg: #171717;
+  --tooltip-border: #333333;
+  --tooltip-color: #ffffff;
+  --legend-color: #ffffff;
+  --grid-color: #333333;
+  --axis-color: #666666;
+  --tick-color: #888888;
+  --cursor-fill: #ffffff10;
+}
